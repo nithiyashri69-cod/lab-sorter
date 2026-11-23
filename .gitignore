@@ -1,0 +1,8 @@
+# Keep API keys and local config out of GitHub
+.env
+*.env
+GEMINI_API_KEY*
+.venv/
+venv/
+__pycache__/
+*.pyc
