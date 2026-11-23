@@ -1,0 +1,15 @@
+id,sent,request,status,reason
+Q02,2026-10-08,Can I book the AI Lab on 16 Oct afternoon for 35 students for a model training demo,needs_more_info,missing lab
+Q03,2026-10-08,Need a lab tomorrow for project review,needs_more_info,"missing lab, date, slot, students"
+Q04,2026-10-08,Seminar hall on 17 October morning for around 150 people,needs_more_info,missing lab
+Q05,2026-10-09,Book LAB1 on 15 Oct AN for 30 students for MA102 tutorial,conflict,LAB1 AN on 2026-10-15 is already taken
+Q06,2026-10-09,AI lab 21 Oct afternoon for 38 students,needs_more_info,missing lab
+Q07,2026-10-09,Python lab on 18 October for 20 students,needs_more_info,"missing lab, slot"
+Q08,2026-10-10,Lab 3 on 25 October 9:30am for 30 students for workshop,lab_closed,2026-10-25 is a Sunday
+Q09,2026-10-10,Need LAB5 on 18 Oct FN for 100 students for guest lecture,lab_closed,2026-10-18 is a Sunday
+Q11,2026-10-11,LAB3 on 16 Oct AN for 25 students for ML club session,conflict,LAB3 AN on 2026-10-16 is already taken
+Q12,2026-10-12,Please book a lab on 22 October afternoon for 12 students,needs_more_info,missing lab
+Q13,2026-10-12,LAB1 on 31 November AN for 40 students for final exam practice,needs_more_info,date problem: '2026-11-31' is not a real calendar date
+Q17,2026-10-14,LAB3 on 25 October for 30 students for AI workshop,needs_more_info,missing slot
+Q19,2026-10-15,LAB5 on 15 October afternoon for 130 students for seminar,over_capacity,130 students but LAB5 holds 120
+Q21,2026-10-16,Lab on 27 October afternoon for 20 students for data science club,needs_more_info,missing lab
