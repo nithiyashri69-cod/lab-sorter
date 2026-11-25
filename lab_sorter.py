@@ -13,6 +13,7 @@ import json
 import os
 import re
 import sys
+import time
 from collections import Counter, defaultdict
 from datetime import date, datetime
 
@@ -145,6 +146,8 @@ def get_details(request_text, system_prompt, labs):
     Returns (fields, calls_made, used_fallback). Copies only the five fields."""
     problem = ""
     for attempt in range(1, MAX_ATTEMPTS + 1):
+        if attempt > 1:
+            time.sleep(5)
         user_msg = request_text
         if problem:
             user_msg += (f"\n\n(Your previous reply was rejected: {problem}. "
@@ -253,6 +256,7 @@ def process(requests, labs, taken, system_prompt):
             "status": status,
             "reason": reason,
         })
+        time.sleep(5)
     return results, total_calls, fallbacks
 
 
