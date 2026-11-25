@@ -1,17 +1,17 @@
 Requests processed: 22
 
 Counts by status:
-  needs_more_info  12
+  needs_more_info  9
   lab_closed       2
-  over_capacity    0
+  over_capacity    1
   conflict         2
-  available        6
+  available        8
 
 Counts by lab:
-  (no lab)       needs_more_info=10
-  LAB1           available=4, conflict=1, needs_more_info=1
-  LAB3           available=1, conflict=1, lab_closed=1, needs_more_info=1
-  LAB5           available=1, lab_closed=1
+  (no lab)       needs_more_info=7
+  LAB1           available=5, conflict=1, needs_more_info=1
+  LAB3           available=2, conflict=1, lab_closed=1, needs_more_info=1
+  LAB5           available=1, lab_closed=1, over_capacity=1
 
-LLM API calls made: 27
-Requests that fell back: 4
+LLM API calls made: 22
+Requests that fell back: 0

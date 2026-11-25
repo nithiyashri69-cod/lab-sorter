@@ -1,23 +1,23 @@
 id,sent,request,lab,date,slot,students,summary,status,reason
 Q01,2026-10-08,Need Python Lab 1 on 15 October afternoon for 55 students for CS101 practice,LAB1,2026-10-15,AN,55,Python Lab 1 for CS101 practice,available,slot is free
-Q02,2026-10-08,Can I book the AI Lab on 16 Oct afternoon for 35 students for a model training demo,,2026-10-16,AN,35,AI lab booking requested for model training demo,needs_more_info,missing lab
+Q02,2026-10-08,Can I book the AI Lab on 16 Oct afternoon for 35 students for a model training demo,,2026-10-16,AN,35,AI lab booking for model training demo with 35 students.,needs_more_info,missing lab
 Q03,2026-10-08,Need a lab tomorrow for project review,,,,,Lab needed tomorrow for project review,needs_more_info,"missing lab, date, slot, students"
 Q04,2026-10-08,Seminar hall on 17 October morning for around 150 people,,2026-10-17,FN,150,Seminar hall needed on 17 October morning for 150 people,needs_more_info,missing lab
-Q05,2026-10-09,Book LAB1 on 15 Oct AN for 30 students for MA102 tutorial,LAB1,2026-10-15,AN,30,Book LAB1 for MA102 tutorial,conflict,LAB1 AN on 2026-10-15 is already taken
-Q06,2026-10-09,AI lab 21 Oct afternoon for 38 students,,2026-10-21,AN,38,AI lab requested for 38 students on afternoon,needs_more_info,missing lab
-Q07,2026-10-09,Python lab on 18 October for 20 students,,2026-10-18,,20,Python lab for 20 students on 18 October,needs_more_info,"missing lab, slot"
-Q08,2026-10-10,Lab 3 on 25 October 9:30am for 30 students for workshop,LAB3,2026-10-25,FN,30,Lab 3 booking for workshop with 30 students,lab_closed,2026-10-25 is a Sunday
-Q09,2026-10-10,Need LAB5 on 18 Oct FN for 100 students for guest lecture,LAB5,2026-10-18,FN,100,LAB5 needed for guest lecture,lab_closed,2026-10-18 is a Sunday
-Q10,2026-10-11,Book LAB1 on 19 October morning for 45 students for CS201 lab,LAB1,2026-10-19,FN,45,LAB1 booking for 45 students for CS201 lab on morning,available,slot is free
-Q11,2026-10-11,LAB3 on 16 Oct AN for 25 students for ML club session,LAB3,2026-10-16,AN,25,LAB3 requested for ML club session,conflict,LAB3 AN on 2026-10-16 is already taken
-Q12,2026-10-12,Please book a lab on 22 October afternoon for 12 students,,2026-10-22,AN,12,Lab booking for 12 students on afternoon of 22 October,needs_more_info,missing lab
-Q13,2026-10-12,LAB1 on 31 November AN for 40 students for final exam practice,LAB1,2026-11-31,AN,40,LAB1 for final exam practice,needs_more_info,date problem: '2026-11-31' is not a real calendar date
-Q14,2026-10-13,LAB5 on 20 Oct FN for 80 students for hackathon,LAB5,2026-10-20,FN,80,LAB5 booking for hackathon with 80 students,available,slot is free
-Q15,2026-10-13,LAB1 on 20 October afternoon for 35 students for CS101 tutorial,LAB1,2026-10-20,AN,35,LAB1 afternoon session for 35 students for CS101 tutorial,available,slot is free
-Q16,2026-10-14,LAB3 on 24 October FN for 36 students for IoT project,LAB3,2026-10-24,FN,36,LAB3 reservation for IoT project,available,slot is free
-Q17,2026-10-14,LAB3 on 25 October for 30 students for AI workshop,LAB3,2026-10-25,,30,LAB3 requested on 25 October for AI workshop,needs_more_info,missing slot
-Q18,2026-10-15,LAB1 on 16 Oct FN for 58 students for coding contest,LAB1,2026-10-16,FN,58,LAB1 booking for coding contest for 58 students,available,slot is free
-Q19,2026-10-15,LAB5 on 15 October afternoon for 130 students for seminar,,,,,Details could not be read,needs_more_info,"missing lab, date, slot, students"
-Q20,2026-10-16,LAB3 on 26 October AN for 39 students for model review,,,,,Details could not be read,needs_more_info,"missing lab, date, slot, students"
-Q21,2026-10-16,Lab on 27 October afternoon for 20 students for data science club,,,,,Details could not be read,needs_more_info,"missing lab, date, slot, students"
-Q22,2026-10-17,LAB1 on 28 October AN for 50 students for CS101 practice,,,,,Details could not be read,needs_more_info,"missing lab, date, slot, students"
+Q05,2026-10-09,Book LAB1 on 15 Oct AN for 30 students for MA102 tutorial,LAB1,2026-10-15,AN,30,LAB1 booking for MA102 tutorial,conflict,LAB1 AN on 2026-10-15 is already taken
+Q06,2026-10-09,AI lab 21 Oct afternoon for 38 students,,2026-10-21,AN,38,AI lab requested for afternoon session with 38 students,needs_more_info,missing lab
+Q07,2026-10-09,Python lab on 18 October for 20 students,,2026-10-18,,20,Python lab for 20 students,needs_more_info,"missing lab, slot"
+Q08,2026-10-10,Lab 3 on 25 October 9:30am for 30 students for workshop,LAB3,2026-10-25,FN,30,Lab 3 session for workshop,lab_closed,2026-10-25 is a Sunday
+Q09,2026-10-10,Need LAB5 on 18 Oct FN for 100 students for guest lecture,LAB5,2026-10-18,FN,100,LAB5 requested for guest lecture,lab_closed,2026-10-18 is a Sunday
+Q10,2026-10-11,Book LAB1 on 19 October morning for 45 students for CS201 lab,LAB1,2026-10-19,FN,45,LAB1 booking for 45 students for CS201 lab on October 19 morning,available,slot is free
+Q11,2026-10-11,LAB3 on 16 Oct AN for 25 students for ML club session,LAB3,2026-10-16,AN,25,LAB3 for ML club session,conflict,LAB3 AN on 2026-10-16 is already taken
+Q12,2026-10-12,Please book a lab on 22 October afternoon for 12 students,,2026-10-22,AN,12,Lab booking requested for 12 students on 22 October afternoon,needs_more_info,missing lab
+Q13,2026-10-12,LAB1 on 31 November AN for 40 students for final exam practice,LAB1,2026-11-31,AN,40,LAB1 afternoon session for 40 students for final exam practice,needs_more_info,date problem: '2026-11-31' is not a real calendar date
+Q14,2026-10-13,LAB5 on 20 Oct FN for 80 students for hackathon,LAB5,2026-10-20,FN,80,LAB5 requested for 80 students for hackathon,available,slot is free
+Q15,2026-10-13,LAB1 on 20 October afternoon for 35 students for CS101 tutorial,LAB1,2026-10-20,AN,35,LAB1 for CS101 tutorial,available,slot is free
+Q16,2026-10-14,LAB3 on 24 October FN for 36 students for IoT project,LAB3,2026-10-24,FN,36,LAB3 requested for IoT project,available,slot is free
+Q17,2026-10-14,LAB3 on 25 October for 30 students for AI workshop,LAB3,2026-10-25,,30,LAB3 requested for 30 students for AI workshop,needs_more_info,missing slot
+Q18,2026-10-15,LAB1 on 16 Oct FN for 58 students for coding contest,LAB1,2026-10-16,FN,58,LAB1 requested for coding contest with 58 students,available,slot is free
+Q19,2026-10-15,LAB5 on 15 October afternoon for 130 students for seminar,LAB5,2026-10-15,AN,130,Seminar in LAB5 for 130 students,over_capacity,130 students but LAB5 holds 120
+Q20,2026-10-16,LAB3 on 26 October AN for 39 students for model review,LAB3,2026-10-26,AN,39,LAB3 booking for model review,available,slot is free
+Q21,2026-10-16,Lab on 27 October afternoon for 20 students for data science club,,2026-10-27,AN,20,Lab on 27 October afternoon for 20 students,needs_more_info,missing lab
+Q22,2026-10-17,LAB1 on 28 October AN for 50 students for CS101 practice,LAB1,2026-10-28,AN,50,LAB1 afternoon session for 50 students CS101 practice,available,slot is free
