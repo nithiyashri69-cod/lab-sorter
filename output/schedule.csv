@@ -1,9 +1,7 @@
 id,sent,request,lab,date,slot,students,summary,status,reason
 Q01,2026-10-08,Need Python Lab 1 on 15 October afternoon for 55 students for CS101 practice,LAB1,2026-10-15,AN,55,Python Lab 1 for CS101 practice,available,slot is free
-Q18,2026-10-15,LAB1 on 16 Oct FN for 58 students for coding contest,LAB1,2026-10-16,FN,58,Coding contest for 58 students,available,slot is free
+Q18,2026-10-15,LAB1 on 16 Oct FN for 58 students for coding contest,LAB1,2026-10-16,FN,58,LAB1 booking for coding contest for 58 students,available,slot is free
 Q10,2026-10-11,Book LAB1 on 19 October morning for 45 students for CS201 lab,LAB1,2026-10-19,FN,45,LAB1 booking for 45 students for CS201 lab on morning,available,slot is free
-Q15,2026-10-13,LAB1 on 20 October afternoon for 35 students for CS101 tutorial,LAB1,2026-10-20,AN,35,LAB1 booking for 35 students for CS101 tutorial,available,slot is free
-Q14,2026-10-13,LAB5 on 20 Oct FN for 80 students for hackathon,LAB5,2026-10-20,FN,80,LAB5 for hackathon,available,slot is free
-Q16,2026-10-14,LAB3 on 24 October FN for 36 students for IoT project,LAB3,2026-10-24,FN,36,LAB3 reservation requested for IoT project,available,slot is free
-Q20,2026-10-16,LAB3 on 26 October AN for 39 students for model review,LAB3,2026-10-26,AN,39,LAB3 reservation for model review session,available,slot is free
-Q22,2026-10-17,LAB1 on 28 October AN for 50 students for CS101 practice,LAB1,2026-10-28,AN,50,LAB1 afternoon session for 50 students for CS101 practice,available,slot is free
+Q15,2026-10-13,LAB1 on 20 October afternoon for 35 students for CS101 tutorial,LAB1,2026-10-20,AN,35,LAB1 afternoon session for 35 students for CS101 tutorial,available,slot is free
+Q14,2026-10-13,LAB5 on 20 Oct FN for 80 students for hackathon,LAB5,2026-10-20,FN,80,LAB5 booking for hackathon with 80 students,available,slot is free
+Q16,2026-10-14,LAB3 on 24 October FN for 36 students for IoT project,LAB3,2026-10-24,FN,36,LAB3 reservation for IoT project,available,slot is free

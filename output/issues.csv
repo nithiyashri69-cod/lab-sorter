@@ -11,5 +11,7 @@ Q11,2026-10-11,LAB3 on 16 Oct AN for 25 students for ML club session,conflict,LA
 Q12,2026-10-12,Please book a lab on 22 October afternoon for 12 students,needs_more_info,missing lab
 Q13,2026-10-12,LAB1 on 31 November AN for 40 students for final exam practice,needs_more_info,date problem: '2026-11-31' is not a real calendar date
 Q17,2026-10-14,LAB3 on 25 October for 30 students for AI workshop,needs_more_info,missing slot
-Q19,2026-10-15,LAB5 on 15 October afternoon for 130 students for seminar,over_capacity,130 students but LAB5 holds 120
-Q21,2026-10-16,Lab on 27 October afternoon for 20 students for data science club,needs_more_info,missing lab
+Q19,2026-10-15,LAB5 on 15 October afternoon for 130 students for seminar,needs_more_info,"missing lab, date, slot, students"
+Q20,2026-10-16,LAB3 on 26 October AN for 39 students for model review,needs_more_info,"missing lab, date, slot, students"
+Q21,2026-10-16,Lab on 27 October afternoon for 20 students for data science club,needs_more_info,"missing lab, date, slot, students"
+Q22,2026-10-17,LAB1 on 28 October AN for 50 students for CS101 practice,needs_more_info,"missing lab, date, slot, students"
